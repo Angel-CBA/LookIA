@@ -27,7 +27,7 @@ const Header = () => {
       <div className="flex items-center justify-between max-w-7xl mx-auto">
         {/* Logo */}
         <div className="flex items-center">
-          <h1 className="text-2xl font-bold text-gray-800">OUTFITECH</h1>
+          <h1 className="text-2xl font-bold text-gray-800">LookIA</h1>
         </div>
 
         {/* Desktop Navigation */}
