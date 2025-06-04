@@ -29,10 +29,10 @@ const Benefits = () => {
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-12">
           <h2 className="text-4xl font-bold text-gray-800 mb-4">
-            Beneficios de usar OUTFITECH
+            Beneficios de usar LookIA
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Descubrí por qué miles de personas eligen OUTFITECH para su estilo diario
+            Descubrí por qué miles de personas eligen LookIA para su estilo diario
           </p>
         </div>
 
