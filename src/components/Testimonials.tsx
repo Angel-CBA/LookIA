@@ -10,13 +10,13 @@ const testimonials = [
     name: "María González",
     city: "Buenos Aires",
     rating: 5,
-    text: "OUTFITECH cambió completamente mi forma de vestirme. Ahora tengo outfits increíbles sin perder tiempo eligiendo.",
+    text: "LookIA cambió completamente mi forma de vestirme. Ahora tengo outfits increíbles sin perder tiempo eligiendo.",
     avatar: "MG"
   },
   {
     id: 2,
     name: "Carlos Mendoza",
-    city: "Madrid",
+    city: "Córdoba",
     rating: 5,
     text: "Los combos son perfectos y la calidad es excelente. Me encanta la variedad de estilos que ofrecen.",
     avatar: "CM"
@@ -32,7 +32,7 @@ const testimonials = [
   {
     id: 4,
     name: "Diego Silva",
-    city: "Barcelona",
+    city: "Colombia",
     rating: 5,
     text: "La mejor inversión en mi guardarropa. Outfits armados por profesionales que realmente saben de moda.",
     avatar: "DS"
@@ -48,7 +48,7 @@ const Testimonials = () => {
             Lo que dicen nuestras usuarias/os
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Miles de personas ya transformaron su estilo con OUTFITECH
+            Miles de personas ya transformaron su estilo con LookIA
           </p>
         </div>
 
