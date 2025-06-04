@@ -39,7 +39,7 @@ const FAQ = () => {
             Preguntas frecuentes
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Resolvemos todas tus dudas sobre OUTFITECH
+            Resolvemos todas tus dudas sobre LookIA
           </p>
         </div>
 
