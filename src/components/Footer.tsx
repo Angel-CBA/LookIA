@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
           {/* Marca */}
           <div className="text-center md:text-left">
-            <h3 className="text-2xl font-bold text-gray-800 mb-4">OUTFITECH</h3>
+            <h3 className="text-2xl font-bold text-gray-800 mb-4">LookIA</h3>
             <p className="text-sm text-gray-600 mb-4">
               Tu estilo, sin esfuerzo. Descubre outfits perfectos para cada ocasión.
             </p>
@@ -40,15 +40,15 @@ const Footer = () => {
             <div className="space-y-2 mb-4">
               <div className="flex items-center justify-center md:justify-end space-x-2">
                 <Mail className="w-4 h-4 text-gray-600" />
-                <span className="text-sm text-gray-600">info@outfitech.com</span>
+                <span className="text-sm text-gray-600">info@lookia.com</span>
               </div>
               <div className="flex items-center justify-center md:justify-end space-x-2">
                 <Phone className="w-4 h-4 text-gray-600" />
-                <span className="text-sm text-gray-600">+34 900 123 456</span>
+                <span className="text-sm text-gray-600">+54 9 351 0123 456</span>
               </div>
               <div className="flex items-center justify-center md:justify-end space-x-2">
                 <MapPin className="w-4 h-4 text-gray-600" />
-                <span className="text-sm text-gray-600">Madrid, España</span>
+                <span className="text-sm text-gray-600">Córdoba, Argentina</span>
               </div>
             </div>
           </div>
@@ -70,7 +70,7 @@ const Footer = () => {
             </div>
             
             <p className="text-sm text-gray-600 text-center">
-              © 2024 OUTFITECH. Todos los derechos reservados.
+              © 2024 LookIA. Todos los derechos reservados.
             </p>
           </div>
         </div>
