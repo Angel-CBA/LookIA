@@ -27,11 +27,6 @@ const faqs = [
     id: "item-4",
     question: "¿Qué pasa si no me gusta el outfit?",
     answer: "Tienes 30 días para devolver cualquier prenda sin costo. Nuestro equipo de atención al cliente te ayudará con el proceso de cambio o devolución."
-  },
-  {
-    id: "item-5",
-    question: "¿Hay asesoría de estilo personalizada?",
-    answer: "Sí, ofrecemos consultas virtuales con nuestros estilistas profesionales. Puedes agendar una sesión para recibir recomendaciones personalizadas según tu estilo de vida."
   }
 ];
 
