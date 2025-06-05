@@ -8,28 +8,28 @@ const featuredOutfits = [
   {
     id: 1,
     name: "Elegancia Casual",
-    image: "https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "https://images.pexels.com/photos/19989010/pexels-photo-19989010/free-photo-of-moda-mujer-pared-muro.jpeg?auto=compress&cs=tinysrgb&w=600",
     price: 54999,
     rating: 4.9
   },
   {
     id: 2,
     name: "Estilo Urbano",
-    image: "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "https://images.pexels.com/photos/32409058/pexels-photo-32409058/free-photo-of-retrato-de-un-hombre-a-la-moda-con-traje-urbano-rojo.jpeg?auto=compress&cs=tinysrgb&w=600",
     price: 43999,
     rating: 4.8
   },
   {
     id: 3,
     name: "Look Minimalista",
-    image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "https://images.pexels.com/photos/32363103/pexels-photo-32363103/free-photo-of-mujer-elegante-posando-en-un-jardin-interior.jpeg?auto=compress&cs=tinysrgb&w=600",
     price: 27999,
     rating: 4.7
   },
   {
     id: 4,
     name: "Tendencia Moderna",
-    image: "https://images.unsplash.com/photo-1492447166138-50c3889fccb1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "https://images.pexels.com/photos/32404690/pexels-photo-32404690/free-photo-of-modelo-elegante-con-chaqueta-vaquera-y-gafas-de-sol.jpeg?auto=compress&cs=tinysrgb&w=600",
     price: 61999,
     rating: 4.9
   }
