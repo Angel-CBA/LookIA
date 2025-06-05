@@ -9,7 +9,7 @@ const outfits = [
     id: 1,
     name: "Look Casual Urbano",
     image: "https://images.pexels.com/photos/18289232/pexels-photo-18289232/free-photo-of-modelo-pelirroja-posando-con-botas-blancas.jpeg?auto=compress&cs=tinysrgb&w=600",
-    totalPrice: 34.999,
+    totalPrice: 34999,
     items: [
       { name: "Camisa", price: 13.999, icon: Shirt },
       { name: "Pantalón", price: 17.999, icon: Users },
@@ -21,7 +21,7 @@ const outfits = [
     id: 2,
     name: "Elegancia Profesional",
     image: "https://images.pexels.com/photos/27308637/pexels-photo-27308637/free-photo-of-elegante.png?auto=compress&cs=tinysrgb&w=600",
-    totalPrice: 29.90000,
+    totalPrice: 29900,
     items: [
       { name: "Blazer", price: 14.999, icon: Shirt },
       { name: "Pantalón", price: 8.999, icon: Users },
@@ -33,7 +33,7 @@ const outfits = [
     id: 3,
     name: "Estilo Relajado",
     image: "https://images.pexels.com/photos/949670/pexels-photo-949670.jpeg?auto=compress&cs=tinysrgb&w=600",
-    totalPrice: 650.000000,
+    totalPrice: 65000,
     items: [
       { name: "Sudadera", price: 9.999, icon: Shirt },
       { name: "Jeans", price: 16.999, icon: Users },
