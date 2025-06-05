@@ -98,7 +98,7 @@ const ProductList = () => {
                         <span className="text-gray-600">{item.name}</span>
                       </div>
                       <span className="font-medium text-gray-800">
-                        ${item.price}
+                        ${(item.price * 1.05).toFixed(2)}
                       </span>
                     </div>
                   ))}
