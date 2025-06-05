@@ -9,28 +9,28 @@ const featuredOutfits = [
     id: 1,
     name: "Elegancia Casual",
     image: "https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-    price: 249.99,
+    price: 54999,
     rating: 4.9
   },
   {
     id: 2,
     name: "Estilo Urbano",
     image: "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-    price: 199.99,
+    price: 43999,
     rating: 4.8
   },
   {
     id: 3,
     name: "Look Minimalista",
     image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-    price: 179.99,
+    price: 27999,
     rating: 4.7
   },
   {
     id: 4,
     name: "Tendencia Moderna",
     image: "https://images.unsplash.com/photo-1492447166138-50c3889fccb1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-    price: 219.99,
+    price: 61999,
     rating: 4.9
   }
 ];
@@ -72,7 +72,7 @@ const FeaturedOutfits = () => {
                 </h3>
                 <div className="flex justify-between items-center mb-4">
                   <span className="text-xl font-bold text-primary">
-                    €{outfit.price}
+                    ${outfit.price}
                   </span>
                 </div>
                 <Button className="w-full bg-primary hover:bg-blue-600 text-white py-2 rounded-lg transition-all duration-300 hover:shadow-lg flex items-center justify-center space-x-2">
