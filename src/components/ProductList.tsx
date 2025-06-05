@@ -8,7 +8,7 @@ const outfits = [
   {
     id: 1,
     name: "Look Casual Urbano",
-    image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "https://images.pexels.com/photos/18289232/pexels-photo-18289232/free-photo-of-modelo-pelirroja-posando-con-botas-blancas.jpeg?auto=compress&cs=tinysrgb&w=600",
     totalPrice: 189.99,
     items: [
       { name: "Camisa", price: 49.99, icon: Shirt },
