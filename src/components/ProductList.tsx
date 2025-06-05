@@ -11,9 +11,9 @@ const outfits = [
     image: "https://images.pexels.com/photos/18289232/pexels-photo-18289232/free-photo-of-modelo-pelirroja-posando-con-botas-blancas.jpeg?auto=compress&cs=tinysrgb&w=600",
     totalPrice: 34999,
     items: [
-      { name: "Camisa", price: 13.999, icon: Shirt },
-      { name: "Pantalón", price: 17.999, icon: Users },
-      { name: "Accesorios", price: 4.999, icon: Star }
+      { name: "Camisa", price: 13999, icon: Shirt },
+      { name: "Pantalón", price: 17999, icon: Users },
+      { name: "Accesorios", price: 4999, icon: Star }
     ],
     rating: 4.8
   },
@@ -23,8 +23,8 @@ const outfits = [
     image: "https://images.pexels.com/photos/27308637/pexels-photo-27308637/free-photo-of-elegante.png?auto=compress&cs=tinysrgb&w=600",
     totalPrice: 29900,
     items: [
-      { name: "Blazer", price: 14.999, icon: Shirt },
-      { name: "Pantalón", price: 8.999, icon: Users },
+      { name: "Blazer", price: 12.999, icon: Shirt },
+      { name: "Pantalón", price: 10.999, icon: Users },
       { name: "Camisa", price: 6.999, icon: Star }
     ],
     rating: 4.9
@@ -35,9 +35,9 @@ const outfits = [
     image: "https://images.pexels.com/photos/949670/pexels-photo-949670.jpeg?auto=compress&cs=tinysrgb&w=600",
     totalPrice: 65000,
     items: [
-      { name: "Sudadera", price: 9.999, icon: Shirt },
-      { name: "Jeans", price: 16.999, icon: Users },
-      { name: "Zapatillas", price: 45.999, icon: Star }
+      { name: "Sudadera", price: 9999, icon: Shirt },
+      { name: "Jeans", price: 16999, icon: Users },
+      { name: "Zapatillas", price: 45999, icon: Star }
     ],
     rating: 4.7
   }
