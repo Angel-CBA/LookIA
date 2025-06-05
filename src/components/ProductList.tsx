@@ -9,35 +9,35 @@ const outfits = [
     id: 1,
     name: "Look Casual Urbano",
     image: "https://images.pexels.com/photos/18289232/pexels-photo-18289232/free-photo-of-modelo-pelirroja-posando-con-botas-blancas.jpeg?auto=compress&cs=tinysrgb&w=600",
-    totalPrice: 189.99,
+    totalPrice: 34.999,
     items: [
-      { name: "Camisa", price: 49.99, icon: Shirt },
-      { name: "Pantalón", price: 79.99, icon: Users },
-      { name: "Accesorios", price: 39.99, icon: Star }
+      { name: "Camisa", price: 13.999, icon: Shirt },
+      { name: "Pantalón", price: 17.999, icon: Users },
+      { name: "Accesorios", price: 4.999, icon: Star }
     ],
     rating: 4.8
   },
   {
     id: 2,
     name: "Elegancia Profesional",
-    image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-    totalPrice: 299.99,
+    image: "https://images.pexels.com/photos/27308637/pexels-photo-27308637/free-photo-of-elegante.png?auto=compress&cs=tinysrgb&w=600",
+    totalPrice: 29.900,
     items: [
-      { name: "Blazer", price: 149.99, icon: Shirt },
-      { name: "Pantalón", price: 89.99, icon: Users },
-      { name: "Camisa", price: 59.99, icon: Star }
+      { name: "Blazer", price: 14.999, icon: Shirt },
+      { name: "Pantalón", price: 8.999, icon: Users },
+      { name: "Camisa", price: 6.999, icon: Star }
     ],
     rating: 4.9
   },
   {
     id: 3,
     name: "Estilo Relajado",
-    image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-    totalPrice: 159.99,
+    image: "https://images.pexels.com/photos/949670/pexels-photo-949670.jpeg?auto=compress&cs=tinysrgb&w=600",
+    totalPrice: 65.000,
     items: [
-      { name: "Sudadera", price: 69.99, icon: Shirt },
-      { name: "Jeans", price: 59.99, icon: Users },
-      { name: "Zapatillas", price: 79.99, icon: Star }
+      { name: "Sudadera", price: 9.999, icon: Shirt },
+      { name: "Jeans", price: 16.999, icon: Users },
+      { name: "Zapatillas", price: 45.999, icon: Star }
     ],
     rating: 4.7
   }
@@ -82,7 +82,7 @@ const ProductList = () => {
                 <div className="mb-4">
                   <div className="flex justify-between items-center mb-2">
                     <span className="text-2xl font-bold text-primary">
-                      €{outfit.totalPrice}
+                      ${outfit.totalPrice}
                     </span>
                     <span className="text-sm text-gray-500">
                       Precio total
@@ -98,7 +98,7 @@ const ProductList = () => {
                         <span className="text-gray-600">{item.name}</span>
                       </div>
                       <span className="font-medium text-gray-800">
-                        €{(item.price * 1.05).toFixed(2)}
+                        ${(item.price * 1.05).toFixed(2)}
                       </span>
                     </div>
                   ))}
