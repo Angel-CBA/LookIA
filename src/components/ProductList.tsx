@@ -21,7 +21,7 @@ const outfits = [
     id: 2,
     name: "Elegancia Profesional",
     image: "https://images.pexels.com/photos/27308637/pexels-photo-27308637/free-photo-of-elegante.png?auto=compress&cs=tinysrgb&w=600",
-    totalPrice: 29.900,
+    totalPrice: 29.90000,
     items: [
       { name: "Blazer", price: 14.999, icon: Shirt },
       { name: "Pantalón", price: 8.999, icon: Users },
@@ -33,7 +33,7 @@ const outfits = [
     id: 3,
     name: "Estilo Relajado",
     image: "https://images.pexels.com/photos/949670/pexels-photo-949670.jpeg?auto=compress&cs=tinysrgb&w=600",
-    totalPrice: 65.000,
+    totalPrice: 650.000000,
     items: [
       { name: "Sudadera", price: 9.999, icon: Shirt },
       { name: "Jeans", price: 16.999, icon: Users },
